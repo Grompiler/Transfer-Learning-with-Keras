@@ -1,6 +1,6 @@
 # Transfer-Learning-with-Keras
 
-##Classification of glass vs platstic bottles using keras and python3.6+
+### Classification of glass vs platstic bottles using keras and python3.6+
 
 ## Installing requirements
 

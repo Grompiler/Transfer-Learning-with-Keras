@@ -1,14 +1,9 @@
 # Transfer-Learning-with-Keras
 
-### Classification of glass vs platstic bottles using keras and python3.6+
+### Classification of glass vs platstic bottles with more than 90% accuracy using keras and python3.6+
 
-## Installing requirements
-
-```bash
-pip install tensorflow
-pip install keras
-pip3 install pillow
-```
+## Link of the notebook in Colab
+https://colab.research.google.com/drive/1UNts9b3b-mnu8t0Wz_kWU9S_5k6e7yBu
 
 ## Example: train the model and classify an image
 
@@ -17,3 +12,6 @@ pip3 install pillow
 >>> train() # will train the model and save it to 'My_resNet50_weights.h5' by default
 >>> classify('path/to/image') # just replace the path with one image of bottle you want to classify
 ```
+
+## Dataset dropbox link:
+https://www.dropbox.com/s/40274pr5d9xgct6/dataset.zip?dl=0
